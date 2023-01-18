@@ -1,0 +1,6 @@
+带system开头的两个项目在windows下运行即可。
+其中systemsecure项目是vue项目，需要使用webstorm打开。
+而systemback项目是django项目，是后台程序。
+pythonproject需要运行在ubuntu下。
+另外，使用的url均为本机url，
+如果需要在其他机器上运行需要修改为相应的url
